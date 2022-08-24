@@ -8,6 +8,7 @@ html{
     height: 100%;
     display: flex;
     justify-content: center;
+    min-width: 320px;
 }
 body{
     background-color: #232422;
